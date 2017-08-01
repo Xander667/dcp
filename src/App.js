@@ -9,12 +9,9 @@ class App extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
-          <h3>Continuous Integration</h3>
-          <h4>WORKING!</h4>
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
-          Continuous Integration WORKING
         </p>
       </div>
     );
